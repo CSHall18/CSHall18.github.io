@@ -1,0 +1,10 @@
+h1  {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+}
+
+#pics {
+    width: 300px;
+    height: 200px;
+}
